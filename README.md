@@ -1,44 +1,44 @@
 # My list of Libs for React projects
 
 ## Layout
-* https://github.com/santosfrancisco/react-awesome-styled-grid
-* https://github.com/STRML/react-grid-layout
+* [React Awesome Styled Grid](https://github.com/santosfrancisco/react-awesome-styled-grid)
+* [React Grid Layout](https://github.com/STRML/react-grid-layout)
 
 
 ## Notification
-* https://github.com/jossmac/react-toast-notifications
+* [React Toast Notifications](https://github.com/jossmac/react-toast-notifications)
 
 
 ## Async
-* https://github.com/zeit/swr
-* https://github.com/slorber/react-async-hook
-* https://github.com/developit/redaxios
+* [SWR](https://github.com/zeit/swr)
+* [React Async Hook](https://github.com/slorber/react-async-hook)
+* [Reaxios](https://github.com/developit/redaxios)
 
 ## Table
-* https://github.com/tannerlinsley/react-table
+* [React Table](https://github.com/tannerlinsley/react-table)
 
 
 ## Form
-* https://github.com/based-ghost/react-functional-select
-* https://github.com/Rocketseat/unform
+* [React Functional Select](https://github.com/based-ghost/react-functional-select)
+* [Unform](https://github.com/Rocketseat/unform)
 
 ## Date
-* https://github.com/iamkun/dayjs
-* https://github.com/prantlf/timezone-support
+* [DayJs](https://github.com/iamkun/dayjs)
+* [Timezone Support](https://github.com/prantlf/timezone-support)
 
 ## Performance
-* https://github.com/alewin/useWorker
-* https://github.com/caiogondim/fast-memoize.js
+* [useWorker](https://github.com/alewin/useWorker)
+* [Fast memoize](https://github.com/caiogondim/fast-memoize.js)
 
 
 ## UI
-* https://github.com/react-icons/react-icons
+* [React Icons](https://github.com/react-icons/react-icons)
 
 ## Chart
-* https://github.com/jerairrest/react-chartjs-2
+* [React ChartJs 2](https://github.com/jerairrest/react-chartjs-2)
 
 ## Dev dependencies
-* https://github.com/ai/size-limit
-* https://github.com/narcello/findead
-* https://github.com/okonet/lint-staged
-* https://github.com/conventional-changelog/commitlint
+* [Size Limit](https://github.com/ai/size-limit)
+* [Findead](https://github.com/narcello/findead)
+* [Lint staged](https://github.com/okonet/lint-staged)
+* [Commitlint](https://github.com/conventional-changelog/commitlint)
